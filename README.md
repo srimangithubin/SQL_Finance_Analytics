@@ -43,11 +43,32 @@ Atliq Hardware is a leading manufacturer of computer hardware in India and other
 -  Window Function : ROW_NUMBER, RANK, DENSE_RANK
                  
 ## Learnt things from this Project : 
+This project marks the beginning of my SQL learning journey. It allowed me to learn & apply SQL concepts to real-world data analysis and gain practical experience.
 
--  Database Normalization & Data Integrity 
--  Entity Relationship Diagram 
--  ETL Data Warehouse, OLTP, OLAP, Data Catalog
--  Fact vs Dimension Table, Star vs Snowflake Schema 
--  Simplified : What is Kanban
--  5 Ways SQL is used in the industry 
--  Supply Chain Basics : Simplified
+Here are some of the highlights of what I learned and practiced during this fantastic journey:
+
+✨ INNER, LEFT, RIGHT, FULL, and CROSS JOIN: Gained a solid understanding of different types of joins and how to effectively combine data from multiple tables.
+
+✨ Subqueries and Correlated Subqueries: Explored the power of subqueries, understanding how they can be nested and correlated to handle complex queries efficiently.
+
+✨ Common Table Expressions (CTE): Leveraging CTEs enhanced my query readability and learned to tackle complex problems step by step.
+
+✨ User-Defined SQL Functions: I now have the skills to create custom functions to streamline repetitive tasks and improve overall code efficiency.
+
+✨ Stored Procedures: Understanding the concept of stored procedures allowed me to modularize code and enhance database performance.
+
+✨ Database Views: Grasped the significance of database views in simplifying complex queries and providing a structured interface to access data.
+
+✨ Window Functions: Learned how to use the powerful OVER clause, along with functions like ROW_NUMBER, RANK, and DENSE_RANK, to analyze data more effectively.
+
+✨ Temporary Tables: Explored the use of temporary tables and their benefits in handling intermediate results during complex data operations.
+
+✨ Database Normalization & Data Integrity 
+
+✨ ETL Data Warehouse, OLTP, OLAP, Data Catalog
+
+✨  Fact vs Dimension Table, Star vs Snowflake Schema 
+
+✨  Simplified : What is Kanban
+  
+✨ Supply Chain Basics : Simplified
